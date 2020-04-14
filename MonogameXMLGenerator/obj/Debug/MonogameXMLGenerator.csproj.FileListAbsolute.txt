@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\MonogameXMLGenerator\MonogameXMLGenerator\bin\Debug\MonogameXMLGenerator.exe.config
+C:\Users\User\source\repos\MonogameXMLGenerator\MonogameXMLGenerator\bin\Debug\MonogameXMLGenerator.exe
+C:\Users\User\source\repos\MonogameXMLGenerator\MonogameXMLGenerator\bin\Debug\MonogameXMLGenerator.pdb
+C:\Users\User\source\repos\MonogameXMLGenerator\MonogameXMLGenerator\obj\Debug\MonogameXMLGenerator.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\MonogameXMLGenerator\MonogameXMLGenerator\obj\Debug\MonogameXMLGenerator.Form1.resources
+C:\Users\User\source\repos\MonogameXMLGenerator\MonogameXMLGenerator\obj\Debug\MonogameXMLGenerator.Properties.Resources.resources
+C:\Users\User\source\repos\MonogameXMLGenerator\MonogameXMLGenerator\obj\Debug\MonogameXMLGenerator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MonogameXMLGenerator\MonogameXMLGenerator\obj\Debug\MonogameXMLGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MonogameXMLGenerator\MonogameXMLGenerator\obj\Debug\MonogameXMLGenerator.exe
+C:\Users\User\source\repos\MonogameXMLGenerator\MonogameXMLGenerator\obj\Debug\MonogameXMLGenerator.pdb
